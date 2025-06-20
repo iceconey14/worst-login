@@ -36,7 +36,7 @@ elseif (isset($_GET['action']) && $_GET['action'] === 'login') {
     <button>try your luck signing up</button>
 </form>
 
-<h2>Log In</h2>
+<h2>log in lulz</h2>
 <form action="?action=login" method="post">
     Username: <input name="user"><br>
     Password: <input name="pass"><br>
